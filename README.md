@@ -9,7 +9,7 @@
 - **Programming Languages & Frameworks:** Python (Flask), JavaScript (Express.js, EJS), OpenAI API.
 - **Databases & Storage:** MongoDB for user data, S3 for resume storage.
 - **Security & Authentication:** Token-based authentication for secure microservices communication, leveraging Express.js.
-- **AI Integration:** NLP-powered resume tailoring using OpenAI GPT models for accurate and meaningful adjustments.
+- **GenAI Integration:** NLP-powered resume tailoring using OpenAI GPT models for accurate and meaningful adjustments.
 - **Architecture:** Microservices design with API-based interaction, ensuring modularity, scalability, and easy maintenance.
 
 ---
