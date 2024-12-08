@@ -2,6 +2,8 @@
 
 **ResuMatch.AI** is a comprehensive job application platform that leverages AI, web scraping, and microservices architecture to simplify and enhance the hiring process. The platform not only aggregates job postings from the Indeed website but also provides job seekers with personalized resumes tailored to specific job descriptions, ensuring better alignment between candidates and opportunities.
 
+![ProjectStructure](png/ProjectStructure.png)
+
 ---
 
 ## Technical Highlights
